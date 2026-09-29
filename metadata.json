@@ -1,0 +1,7 @@
+{
+  "name": "Income Manager",
+  "description": "Modern, professional personal income tracking and financial management platform with analytics, targets, calendar, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
